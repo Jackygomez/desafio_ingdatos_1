@@ -1,5 +1,5 @@
 # prueba_tecnica_ingdatos
-Solución a prueba técnica de ingeniería de datos y modelamiento para BI. Implementación de ETL en la nube y modelo dimensional en Power BI. Documentación detallada y despliegue en GitHub.
+Solución a primera parte de la prueba técnica de ingeniería de datos. Implementación de ETL en la nube. Documentación resumen y despliegue en GitHub.
 
 1. Generación de Datos Automatizada
 Herramientas Utilizadas: Python con bibliotecas Pandas y NumPy.
@@ -19,3 +19,5 @@ Proceso: Se desarrolla una API REST que permite consultar la vista VistaDetalles
 6. Mejora e Implementación de la API con Contenedores
 Herramientas Utilizadas: Docker para contenerización.
 Proceso: La API desarrollada en Flask se conteneriza utilizando Docker para facilitar el despliegue y la escalabilidad.
+
+NOTA: El detalle de esta prueba se encuentra en https://tasty-pulsar-899.notion.site/Prueba-Tecnica-Ing-datos-6b7c9a0b465c426c9d23b990bb31d380?pvs=4
