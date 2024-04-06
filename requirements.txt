@@ -1,0 +1,15 @@
+pyarrow==15.0.2
+azure-storage-blob==12.19.0
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.29
+pandas==1.4.3
+pandas-stubs==1.4.3.220822
+pyodbc==5.1.0
+
+Flask==3.0.2
+python-dotenv==1.0.1
+python-dateutil==2.8.2
+python-dotenv==1.0.1
+python-json-logger==2.0.4
+python-slugify==6.1.2
+python-version==0.0.2
