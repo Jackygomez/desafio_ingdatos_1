@@ -1,6 +1,9 @@
 import os
 import pandas as pd
-from desafio1_pt1 import departamentos_df, puestos_df, empleados_df
+import sys
+sys.path.append('D:\desafio_ingdatos_1\data_generation')
+from generate_data import departamentos_df, puestos_df, empleados_df
+nombre_carpeta = "archivos"
 
 nombre_carpeta = "archivos"
 
