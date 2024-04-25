@@ -1,5 +1,4 @@
-# prueba_tecnica_ingdatos
-Solución a primera parte de la prueba técnica de ingeniería de datos. Implementación de ETL en la nube. Documentación resumen y despliegue en GitHub.
+Implementación de ETL en la nube. Documentación resumen y despliegue en GitHub.
 
 1. Generación de Datos Automatizada
 Herramientas Utilizadas: Python con bibliotecas Pandas y NumPy.
