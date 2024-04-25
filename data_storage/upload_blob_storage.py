@@ -1,10 +1,11 @@
 from azure.storage.blob import BlobServiceClient
 import pandas as pd
 from io import BytesIO
-from desafio1_pt1 import departamentos_df, puestos_df, empleados_df
+import sys
+sys.path.append('D:\desafio_ingdatos_1\data_generation')
+from generate_data import departamentos_df, puestos_df, empleados_df
 from dotenv import load_dotenv
 import os
-
 # Carga las variables de entorno desde el archivo '.env'.
 load_dotenv()
 
